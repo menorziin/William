@@ -1,21 +1,21 @@
-# Hi there, I'm CHRISL7
+# Hi there, I'm William
 
 ## I am a begginer Android Developer from Brazil
 
-- Currently I work on device tree for two Xiaomi Devices: POCO X3/x3 NFC and Redmi Note 11/11 NFC.
+- Currently I work on device tree for Motorola One Fusion+
 - These device tree are used in Android Custom Rom.
 - I’m currently working at:
   <br>
-   **Pixel Experience [@PixelExperience](https://github.com/PixelExperience)**.
+   **LineageOS [@LineageOS](https://github.com/LineageOS)**.
   <br>
-   **Paranoid Android [@AOSPA](https://github.com/AOSPA)**.
- 
- - I am a University of Business Administration, but currently I am also acquiring basic knowledge in programming.
- 
- ### My stats:
-<img src="https://komarev.com/ghpvc/?username=ChrisW444&style=flat-square" alt="CHRISL7" /><br>
+   **sm6150-motorola [@sm6150-motorola](https://github.com/sm6150-motorola)**.
+  <br>
+   **sm6150-liber [@sm6150-liber](https://github.com/sm6150-liber)**.
 
-[![CHRISL7  github stats](https://github-readme-stats.vercel.app/api?username=CHRISL7)](https://github.com/CHRISL7)
+ ### My stats:
+<img src="https://komarev.com/ghpvc/?username=menorziin&style=flat-square" alt="menorziin" /><br>
+
+[![William  github stats](https://github-readme-stats.vercel.app/api?username=menorziin)](https://github.com/menorziin)
 
 <!-- github workflow  -->
 
